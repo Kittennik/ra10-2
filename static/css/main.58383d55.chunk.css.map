@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,gBACF,CAEA,MACE,iBACF,CAEA,QACE,kBACF","file":"main.58383d55.chunk.css","sourcesContent":[".button {\n  margin-left: 10px;\n}\n\ninput {\n  border-radius: 5px;\n}\n\n.filter {\n  margin-bottom: 15px;\n}\n"]}
